@@ -1,4 +1,4 @@
-#! /usr/bin/perl -w
+#!/sw/perl/bin/perl -w
 
 undef $/;
 my @blocks = sort split(/\n\n/, <>);
